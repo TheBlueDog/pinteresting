@@ -1,5 +1,7 @@
 # My One Month Rails Project
 
+by [TheBlueDog](http://www.twitter.com/TheBlueDog)
+
 This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
 
 Development environment:
@@ -13,4 +15,3 @@ Development environment:
 
 Resoures:
 [InstallRails](http://www.installrails.com)
-by [TheBlueDog](http://www.twitter.com/TheBlueDog)
